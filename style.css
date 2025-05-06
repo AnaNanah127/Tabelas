@@ -2,7 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-size: 10px;
-    line-height: 1.em;
+    line-height: 10.em;
 }
 header li{
     list-style-type: none;
